@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">submision2fundamental</string>
+    <string name="icon_github">icon github</string>
+    <string name="pengguna_github">Pengguna Github</string>
+
+    <string name="search">Cari</string> <!--  sama  -->
+    <string name="search_hint">Masukkan Nama Pengguna</string> <!--  sama  -->
+    <string name="change_language">Ganti Bahasa</string> <!--  sama  -->
+
+    <string name="username">Nama Pengguna</string> <!--  sama  -->
+    <string name="html_url">html_url</string> <!--  sama  -->
+    <string name="name">Nama</string><!--  sama  -->
+    <string name="company">Perusahaan</string> <!--  sama  -->
+    <string name="location">Lokasi</string><!--  sama  -->
+    <string name="blog">Blog</string><!--  sama  -->
+
+    <string name="user_not_found">Pengguna Tidak Ditemukan</string><!--  sama  -->
+
+    <string name="tab_follower">Pengikut</string><!--  sama  -->
+    <string name="tab_following">Mengikuti</string><!--  sama  -->
+
+    <string name="background">Latar Belakang</string><!--  sama  -->
+
+    <string name="favorite">Favorit</string><!--  sama  -->
+
+    <string name="fav_add">Berhasil ditambahkan ke favorit</string><!--  sama di kalimat -->
+    <string name="empty_favorite">Belum ada favorit ditambah</string> <!--  sama  -->
+    <string name="alert_delete">Hapus</string> <!--  sama  -->
+    <string name="confirm_delete">Hapus dari favorit?</string> <!--  sama  -->
+    <string name="delete_success">Dihapus dari favorit</string> <!--  sama  -->
+
+    <string name="yes">iya</string> <!--  sama  -->
+    <string name="no">Tidak</string> <!--  sama  -->
+
+    <string name="notification_settings">Pengaturan Notifikasi</string><!--  sama  -->
+    <string name="notification">Notifikasi</string><!--  sama  -->
+    <string name="notification_application">Tampilkan notifikasi aplikasi</string><!--  sama  -->
+    <string name="notification_text">Ayo cari beberapa pengguna github!</string><!--  sama  -->
+
+    <string name="repository">Repository</string>
+
+</resources>

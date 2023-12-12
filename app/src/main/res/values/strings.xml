@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">submision3</string>
+    <string name="icon_github">icon github</string>
+
+    <string name="search">Search</string><!-- sama dibagian name  -->
+    <string name="search_hint">Enter username</string> <!-- sama dibagian name   -->
+    <string name="change_language">Change language</string> <!-- sama   -->
+
+
+
+    <string name="username">Username</string> <!--  sama  -->
+    <string name="html_url">html_url</string> <!--  sama  -->
+    <string name="name">Name</string> <!--  sama  -->
+    <string name="company">Company</string> <!--  sama  -->
+    <string name="location">Location</string> <!--  sama  -->
+    <string name="blog">Blog</string> <!--  sama  -->
+
+    <string name="user_not_found">User Not Found</string> <!--  sama  -->
+
+    <string name="tab_follower">Follower</string> <!--  sama  -->
+    <string name="tab_following">Following</string> <!--  sama  -->
+
+    <string name="background">Background</string> <!--  sama  -->
+    <string name="pengguna_github">User Github</string>
+
+    <string name="favorite">Favorite</string> <!--  sama  -->
+
+    <string name="fav_add">Successfully add to favorite!</string> <!--  sama dibagian teks nya  -->
+    <string name="empty_favorite">There are no favorites added yet</string> <!--  sama  -->
+    <string name="alert_delete">Delete</string> <!--  sama  -->
+    <string name="confirm_delete">Delete from favorite?</string> <!--  sama  -->
+    <string name="delete_success">Deleted from favorite</string> <!--  sama  -->
+
+    <string name="yes">Yes</string> <!--  sama  -->
+    <string name="no">No</string> <!--  sama  -->
+
+    <string name="notification_settings">Notification Settings</string><!--  sama  -->
+    <string name="notification">Notification</string><!--  sama  -->
+    <string name="notification_application">Show application notification</string> <!--  sama  -->
+    <string name="notification_text">Let\'s search some github users!</string> <!--  sama  -->
+
+    <string name="repository">Repository</string>
+
+</resources>

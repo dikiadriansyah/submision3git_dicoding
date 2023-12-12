@@ -1,0 +1,3 @@
+include ':ListFavorite'
+include ':app'
+rootProject.name = "submision2fundamental"
